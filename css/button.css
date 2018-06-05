@@ -1,0 +1,19 @@
+
+container {
+
+}
+
+button.smooth {
+    border-radius: 50px;    
+}
+
+button {
+    background: transparent;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.btn-large {
+    width: 10rem;
+    height: 4rem;
+}
